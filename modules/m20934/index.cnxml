@@ -1,0 +1,646 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Krag</title>
+  <metadata>
+  <md:content-id>m20934</md:content-id><md:title>Krag</md:title>
+  <md:abstract/>
+  <md:uuid>40532113-e3c4-4ab9-bd09-633f5816bc41</md:uuid>
+</metadata>
+
+<content>
+    <section id="id43707644">
+      <title>NATUURWETENSKAPPE </title>
+      <para id="para-id43707644">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id43707653">
+      <title>Graad 9</title>
+      <para id="para-id43707653">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id43707661">
+      <title>ENERGIE, KRAGTE EN MASJIENE</title>
+      <para id="para-id43707661">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id43707672">
+      <title>Module 22</title>
+      <para id="para-id43707672">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id43707680">
+      <title>DRYWING</title>
+      <para id="id43707687">Werkverrigting (arbeid) is belangrik, maar die SPOED waarteen die werk gedoen word, is eweneens belangrik.</para>
+      <section id="id43707693">
+        <title>Aktiwiteit 1:</title>
+        <para id="para-id43707693">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id43707701">
+        <title>Om die begrip DRYWING te kan verduidelik en om drywing te kan bereken</title>
+        <para id="para-id43707701">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id43707710">
+        <title> [LU 2.3; LU 2.4]</title>
+        <para id="id43707729">DRYWING = ARBEID / TYD</para>
+        <para id="id43707738">Ons meet dit in J/s of beter bekend as Watt (W)</para>
+        <para id="id43707743">1J per sekonde lewer 1 Watt drywing</para>
+        <list id="id43707747" list-type="bulleted">
+          <item>Die term <emphasis effect="bold">Watt</emphasis> is afgelei van die naam van James Watt wat die stoomenjin verbeter het.</item>
+        </list>
+        <list id="id43707763" list-type="bulleted">
+          <item>Elektrisiteit in jou huishouding word gemeet in kilowatt-uur (<emphasis effect="bold">kWh</emphasis>).</item>
+          <item>Een kilowatt-uur is die energie-uitset deur ’n 1 kW toestel in een uur.</item>
+          <item>Hoe langer so ’n toestel aangeskakel bly, hoe meer energie word verbruik. So sal ’n 2 kW-verwarmer wat drie ure aangeskakel bly 6 kW energie verbruik. </item>
+          <item>Voltooi: …… kW per uur x ….. uur = 6 kW.</item>
+          <item>Die koste vir ’n kWh wissel, maar is in die Wes-Kaap tans ongeveer R0.35.</item>
+        </list>
+      </section>
+      <section id="id43707812">
+        <title/>
+        <para id="para-id43707812">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id43707820">
+        <title>Opdrag: </title>
+        <para id="id43707827">Meet jou eie drywingsvermoë</para>
+        <list id="id43707832" list-type="bulleted">
+          <item>Gaan na ’n stel trappe in julle skoolgebou en meet die traphoogte. </item>
+          <item>Vermenigvuldig dit met die aantal trappies.</item>
+          <item>Bepaal jou GEWIG.</item>
+          <item>Hardloop teen die trappe uit en neem die tyd in sekondes.</item>
+        </list>
+        <para id="id43707860">Voltooi die volgende tabel:</para>
+        <table id="id43707865" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Aspek</entry>
+                <entry>Meting</entry>
+              </row>
+              <row>
+                <entry>Traphoogte</entry>
+                <entry>. </entry>
+              </row>
+              <row>
+                <entry>Massa</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Gewig</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Werk gedoen: F x s</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Tyd</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id43708017">VRAE</para>
+        <para id="id43708022">1. Wat was jou drywing?</para>
+        <para id="id43708029"/>
+        <para id="id43708033"/>
+        <para id="id43708038">2. Waarvoor staan</para>
+        <para id="id43708045">a) Kilowatt?</para>
+        <para id="id43708052"/>
+        <para id="id43708057">b) Kilowatt-uur?</para>
+        <para id="id43708064"/>
+        <para id="id43708068">3. Vind uit wat die drywingskrag van die gemiddelde motor (gestel jou onderwyser s’n) is.</para>
+        <para id="id43708078"/>
+        <para id="id43708082">4. Sal jy kans sien om jou onderwyser se motor huis toe te stoot?</para>
+        <para id="id43708090"/>
+        <para id="id43708096">5. Waarom sal dit makliker wees as die enjin dit doen, selfs al sou jy die tyd hê en jou maats jou help?</para>
+        <para id="id43708106"/>
+        <para id="id43708110"/>
+        <para id="id43708114"/>
+        <para id="id43708119"/>
+        <para id="id43463478">6. Bereken wat ’n 3 000 W-verwarmer wat vir ’n maand lank (Julie) 4 ure per dag aangeskakel was jou sal kos teen ’n tarief van R0,35 per kWh.</para>
+        <para id="id43463490"/>
+        <para id="id43463494"/>
+        <para id="id43463498"/>
+        <para id="id43463502"/>
+        <para id="id43463506"/>
+        <para id="id43463511"/>
+        <para id="id43463515"/>
+        <para id="id43463519">Assessering van BEREKENING van DRYWINGSVERMOË</para>
+        <para id="id43463525">Kon jy kennis toepas en berekeninge doen?</para>
+        <para id="id43463530">[LU 2.3; LU 2.4]</para>
+        <para id="id43463534"/>
+      </section>
+      <section id="id43463542">
+        <title>Aktiwiteit 2:</title>
+        <para id="para-id43463542">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id43463550">
+        <title>Om NAVORSING oor drywing te doen en om relevante berekeninge te maak</title>
+        <para id="para-id43463550">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id43463559">
+        <title>[LU 1.1; LU 1.2; LU 2.2; LU 2.4]</title>
+        <para id="id43463570">Vind uit wat 1 kWh elektrisiteit in jou munisipale area kos.</para>
+        <para id="id43463575"/>
+        <para id="id43463580">Gestel jy gebruik die volgende toestelle deur die loop van die dag:</para>
+        <list id="id43463585" list-type="bulleted">
+          <item>Rekenaar vir 2 ure</item>
+          <item>Televisie vir 3 ure</item>
+          <item>Lamp vir 4 ure</item>
+          <item>Ketel vir 15 minute</item>
+          <item>Stoof vir 45 minute</item>
+          <item>Haardroër vir 15 minute</item>
+        </list>
+        <list id="id43463625" list-type="bulleted">
+          <item>Stel vas wat die gemiddelde drywing vir elk van hierdie items is deur op die apparate se aanwysings te kyk. Voltooi die tabel.</item>
+        </list>
+        <table id="id43463638" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Elektriese toestel</entry>
+                <entry>Drywing (kW)</entry>
+              </row>
+              <row>
+                <entry>Rekenaar</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Televisie</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Lamp</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Ketel</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Stoof</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Haardroër</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id43463813">Voltooi nou die volgende tabel vir jou kosteberekening:</para>
+        <table id="id43463818" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry>TOESTEL</entry>
+                <entry>DRYWING (kW) soos hierbo</entry>
+                <entry>TYD gebruik(ure)</entry>
+                <entry>Energie verbruik (kW/h)</entry>
+                <entry>Koste @ R1,50 per uur</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Rekenaar</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Televisie</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Lamp</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Ketel</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Stoof</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Haardroër</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id43464154">VRAE</para>
+        <para id="id43464159">1. Watter gevolgtrekking kan jy maak?</para>
+        <para id="id43464166"/>
+        <para id="id43464170"/>
+        <para id="id43464175"/>
+        <para id="id43464179">2. Besef jy dat energie spaarsamer gebruik behoort te word? Gee jou eie mening hieroor.</para>
+        <para id="id43464187"/>
+        <para id="id43464192"/>
+        <para id="id43464196">3. Bereken die volgende:</para>
+        <para id="id43464203">a) ’n Bergklimmer met ’n massa van 75 kg klim ’n krans van 320 meter hoog in 20 minute uit. Bereken sy drywing.</para>
+        <para id="id43464214"/>
+        <para id="id43464218"/>
+        <para id="id43464222">b) ’n Groot kas van 150 kg moet tydens ’n trekkery met trappe van so 5 m hoog opgedra word. </para>
+        <list id="id43464232" list-type="bulleted">
+          <item>Hoeveel werk word gedoen? </item>
+        </list>
+        <para id="id43464241"/>
+        <para id="id43464245"/>
+        <list id="id43464250" list-type="bulleted">
+          <item>Wat is die werkers se werkverrigting as twee mans dit binne 10 minute doen?</item>
+        </list>
+        <para id="id43464260"/>
+        <para id="id43464264"/>
+        <para id="id43464268">Assessering van NAVORSING oor toestelle</para>
+        <para id="id43464272">Kon jy die inligting bekom en die berekenige doen?</para>
+        <para id="id43464278">Kon jy kategoriseer?</para>
+        <para id="id43464282">[LU 1.1; LU 1.2; LU 2.2; LU 2.4]</para>
+      </section>
+    </section>
+    <section id="id43464289">
+      <title>Assessering</title>
+      <para id="id43464296">LU 1</para>
+      <para id="id43464300">Wetenskaplike Ondersoek</para>
+      <para id="id43464305">Die leerder is in staat om met selfvertroue op weetgierigheid oor natuurlike verskynsels te reageer, en om binne die konteks van wetenskap, tegnologie en die omgewing verbande te ondersoek en probleme op te los.</para>
+      <para id="id43464315">Dit word bewys as die leerder:</para>
+      <para id="id43464320">1.1 ondersoeke beplan;</para>
+      <para id="id43464327">1.2 ondersoeke uitvoer en data versamel;</para>
+      <para id="id43464333">1.3 data evalueer en bevindinge kommunikeer.</para>
+      <para id="id43464340">LU 2</para>
+      <para id="id43464344">Konstruksie van Wetenskapkennis</para>
+      <para id="id43464349">Die leerder ken, interpreteer en pas wetenskaplike, tegnologiese en omgewings- kennis toe.</para>
+      <para id="id43464355">Dit word bewys as die leerder:</para>
+      <para id="id43464360">2.1 betekenisvolle inligting kan oproep;</para>
+      <para id="id43464366">2.2 inligting kan kategoriseer;</para>
+      <para id="id43464373">2.3 inligting kan interpreteer;</para>
+      <para id="id43464380">2.4 kennis kan toepas.</para>
+    </section>
+    <section id="id43464394">
+      <title>Memorandum</title>
+      <section id="id43464402">
+        <title>Aktiwiteit </title>
+        <para id="id43464408">Vrae:</para>
+        <para id="id43464413">Drywing  = <emphasis effect="underline">Arbeid(werk) </emphasis>  Tyd</para>
+        <para id="id43464436">Arbeid = Krag (F) x s</para>
+        <para id="id43464446">Gewig = Massa x 10 =  Kg</para>
+        <para id="id43464470"> = <emphasis effect="underline">F x s</emphasis>  Tyd = </para>
+        <para id="id43464495">2. a) 1000 Watt, m.a.w. 1 000 X Joule/sekonde</para>
+        <para id="id43464503">b) Die hoeveelheid kW wat per uur gelewer of verbruik word</para>
+        <para id="id43464511">3. Groter motors ongeveer 100kW; kleiner karre ongeveer 70kW</para>
+        <para id="id43464518">4. –</para>
+        <para id="id43464525">5. Enjin het groter drywing/vermoë om werk te verrig</para>
+        <para id="id43464533">6. Bereken eers totale energieverbruik (kWh):</para>
+        <para id="id43464540">= kW x h (uur)= 3 kW x 124 h= 372 kW</para>
+        <para id="id43464560">Bereken dan die koste:</para>
+        <para id="id43464565">= 372 x R0,35= R130,20 </para>
+      </section>
+      <section id="id43464580">
+        <title>Aktiwiteit 2: </title>
+        <para id="id43464587">Toestelle se drywing per uur (min of meer):</para>
+        <list id="id43464591" list-type="bulleted">
+          <item>Sakrekenaar 0,0006W</item>
+          <item>Mikrogolf 750W</item>
+          <item>Boor 500W</item>
+          <item>Radio 28W</item>
+          <item>Broodrooster 800W</item>
+          <item>Waaier 100W</item>
+          <item>Strykyster 1 200W</item>
+          <item>Stoof 1000W</item>
+          <item>Rekenaar  250W</item>
+        </list>
+        <para id="id43464665"/>
+        <para id="id43464670">Vrae:</para>
+        <para id="id43464674">1. Hoe groter die drywing, hoe duurder die koste om te gebruik</para>
+        <para id="id43464682">2. Debat</para>
+        <para id="id43464688">3. a)  W = F x s= (75 x 10) x 320= 750 x 320= 240 000 J</para>
+        <para id="id43464725">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mrow>
+                  <m:mtable>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mstyle fontsize="11pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>Drywing</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                  <m:mo stretchy="false">=</m:mo>
+                                  <m:mfrac>
+                                    <m:mstyle fontsize="11pt">
+                                      <m:mrow>
+                                        <m:mstyle fontstyle="italic">
+                                          <m:mrow>
+                                            <m:mtext>Arbeid</m:mtext>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                    <m:mstyle fontsize="11pt">
+                                      <m:mrow>
+                                        <m:mstyle fontstyle="italic">
+                                          <m:mrow>
+                                            <m:mtext>Tyd</m:mtext>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:mfrac>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="11pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow/>
+                              <m:mo stretchy="false">=</m:mo>
+                              <m:mfrac>
+                                <m:mstyle fontsize="11pt">
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mtext>240</m:mtext>
+                                      <m:mi/>
+                                      <m:mtext>000</m:mtext>
+                                      <m:mi/>
+                                      <m:mi>J</m:mi>
+                                    </m:mrow>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mstyle fontsize="11pt">
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mo stretchy="false">(</m:mo>
+                                      <m:mrow>
+                                        <m:mtext>20</m:mtext>
+                                        <m:mo stretchy="false">×</m:mo>
+                                        <m:mtext>60</m:mtext>
+                                      </m:mrow>
+                                      <m:mo stretchy="false">)</m:mo>
+                                    </m:mrow>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mfrac>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="11pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow/>
+                              <m:mo stretchy="false">=</m:mo>
+                              <m:mfrac>
+                                <m:mstyle fontsize="11pt">
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mtext>240</m:mtext>
+                                      <m:mi/>
+                                      <m:mtext>000</m:mtext>
+                                    </m:mrow>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mstyle fontsize="11pt">
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mn>1</m:mn>
+                                      <m:mi/>
+                                      <m:mtext>200</m:mtext>
+                                    </m:mrow>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mfrac>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="11pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mrow/>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mtext>200</m:mtext>
+                              </m:mrow>
+                              <m:mi/>
+                              <m:mi>W</m:mi>
+                              <m:mi/>
+                              <m:mo stretchy="false">(</m:mo>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>of</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mi/>
+                              <m:mn>0,2</m:mn>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>lW</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mo stretchy="false">)</m:mo>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                  </m:mtable>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{ size 11{ ital "Drywing"= {  { size 11{ ital "Arbeid"}}  over  { size 11{ ital "Tyd"}} } }}  {} # 
+ size 11{ {}= {  { size 11{"240"`"000"`J}}  over  { size 11{ \( "20" times "60" \) }} } } {} # 
+ size 11{ {}= {  { size 11{"240"`"000"}}  over  { size 11{1`"200"}} } } {} # 
+ size 11{ {}="200"`W` \(  ital "of"`0,2 ital "lW" \) } {} 
+} } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id43464974">b) W = F x s = (150 x 10) x 5= 7 500 J</para>
+        <equation id="id43465005">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mrow>
+                  <m:mtable>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mstyle fontsize="11pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>Drywing</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                  <m:mo stretchy="false">=</m:mo>
+                                  <m:mfrac>
+                                    <m:mstyle fontsize="11pt">
+                                      <m:mrow>
+                                        <m:mstyle fontstyle="italic">
+                                          <m:mrow>
+                                            <m:mtext>Arbeid</m:mtext>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                    <m:mstyle fontsize="11pt">
+                                      <m:mrow>
+                                        <m:mstyle fontstyle="italic">
+                                          <m:mrow>
+                                            <m:mtext>Tyd</m:mtext>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:mfrac>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="11pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow/>
+                              <m:mo stretchy="false">=</m:mo>
+                              <m:mfrac>
+                                <m:mstyle fontsize="11pt">
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mn>7</m:mn>
+                                      <m:mi/>
+                                      <m:mtext>500</m:mtext>
+                                      <m:mi/>
+                                      <m:mi>J</m:mi>
+                                    </m:mrow>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mstyle fontsize="11pt">
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mtext>600</m:mtext>
+                                      <m:mi/>
+                                      <m:mi>s</m:mi>
+                                    </m:mrow>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mfrac>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="11pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mrow/>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mtext>12</m:mtext>
+                              </m:mrow>
+                              <m:mi>,</m:mi>
+                              <m:mn>5</m:mn>
+                              <m:mi/>
+                              <m:mi>W</m:mi>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                  </m:mtable>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{ size 11{ ital "Drywing"= {  { size 11{ ital "Arbeid"}}  over  { size 11{ ital "Tyd"}} } }}  {} # 
+ size 11{ {}= {  { size 11{7`"500"`J}}  over  { size 11{"600"`s}} } } {} # 
+ size 11{ {}="12",5`W} {} 
+} } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id43465167"> Een werker se werkverrigting = 12,5  2= 6,25 W</para>
+      </section>
+    </section>
+  </content>
+</document>
